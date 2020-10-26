@@ -1,0 +1,2 @@
+This is a demo made with EasyX
+Mainly demonstrate a bubble animation
